@@ -2,10 +2,6 @@
 Tic-Tac-Toe game on python3
     [.]Takes in Players info and tracks their moves.
     [.]Prints a grid
-E-mail: sohail47k@gmail.com
-Id: sohailshaukat or sohail_shaukat_
-Github: https://www.github.com/sohailshaukat/
-LinkedIn: https://www.linkedin.com/in/sohail-selod-9a5b83162/
 '''
 import random
 def players_info():
